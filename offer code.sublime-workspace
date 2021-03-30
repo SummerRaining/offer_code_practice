@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"stack2"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"il",
+				"ileft"
+			],
+			[
+				"pr",
+				"pright"
+			],
+			[
+				"le",
+				"r_length"
+			],
+			[
+				"lenght",
+				"length2"
+			],
+			[
+				"num1",
+				"nums1"
+			],
+			[
+				"num",
+				"nums2"
+			],
+			[
+				"leg",
+				"length2"
+			],
+			[
+				"len",
+				"length1"
+			],
+			[
+				"fla",
+				"flag-1"
+			],
+			[
+				"leng",
+				"length1"
+			],
+			[
+				"nums",
+				"nums1"
+			],
+			[
+				"inpu",
+				"input_string"
+			],
+			[
+				"c",
+				"course_name"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"tim",
+				"time2"
+			],
+			[
+				"time",
+				"time3"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"has",
+				"haspath"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"se",
+				"sedstack"
+			],
+			[
+				"f",
+				"firstack"
+			],
+			[
+				"end",
+				"endin"
+			],
+			[
+				"st",
+				"startin"
+			],
+			[
+				"left",
+				"leftlen"
+			],
+			[
+				"start",
+				"startpre"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"send",
+				"send_mail2"
+			],
+			[
+				"value",
+				"value1"
+			],
+			[
+				"cho",
+				"choice"
+			],
+			[
+				"pah",
+				"path2"
+			],
+			[
+				"pat",
+				"path1"
+			],
+			[
+				"pa",
+				"path1"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"l",
+				"lowestCommonAncestor"
+			],
+			[
+				"ju",
+				"judge_two"
+			],
+			[
+				"arr",
+				"array2"
+			],
+			[
+				"r",
+				"right-left"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"mo",
+				"movingCountHelper"
+			],
+			[
+				"max",
+				"max_t"
+			],
+			[
+				"roo",
+				"root2"
+			],
+			[
+				"root",
+				"root2"
+			],
+			[
+				"s",
+				"symmetricHelper"
+			],
+			[
+				"pu",
+				"pushed_index"
+			],
+			[
+				"pop",
+				"pop_index"
+			],
+			[
+				"po",
+				"pop_index"
+			],
+			[
+				"push",
+				"pushed_index"
+			],
+			[
+				"head",
+				"head2"
+			],
+			[
+				"sel",
+				"serialize"
+			],
+			[
+				"tre",
+				"treeStr"
+			],
+			[
+				"te",
+				"treeStr"
+			],
+			[
+				"heap",
+				"heappush"
+			],
+			[
+				"hea",
+				"heappush"
+			],
+			[
+				"cur",
+				"cur_weishu"
+			],
+			[
+				"de",
+				"degree"
+			],
+			[
+				"inse",
+				"insect_output"
+			],
+			[
+				"sp",
+				"sparse_embed"
+			],
+			[
+				"fc_",
+				"fc_layer_output"
+			],
+			[
+				"La",
+				"Lambda"
+			],
+			[
+				"in",
+				"insect_embed"
+			],
+			[
+				"_",
+				"_embed"
+			],
+			[
+				"spa",
+				"sparse_feat"
+			],
+			[
+				"ul",
+				"uglyNum"
+			],
+			[
+				"ulg",
+				"nthUglyNumber"
+			],
+			[
+				"fin",
+				"findleft"
+			],
+			[
+				"right",
+				"rightdepth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "11.py",
+			"settings":
+			{
+				"buffer_size": 703,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "12.py",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "13.py",
+			"settings":
+			{
+				"buffer_size": 920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "14_1.py",
+			"settings":
+			{
+				"buffer_size": 566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "15.py",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/a/Desktop/offer_code"
+	],
+	"file_history":
+	[
+		"/C/Users/a/Desktop/offer_code/14_1.py",
+		"/C/Users/a/Desktop/offer_code/10_1.py",
+		"/C/Users/a/Desktop/offer_code/10.py",
+		"/C/Users/a/Desktop/offer_code/9.py",
+		"/C/Users/a/Desktop/offer_code/8.py",
+		"/C/Users/a/Desktop/offer_code/7.py",
+		"/C/Users/a/Desktop/offer_code/4.py",
+		"/C/Users/a/Desktop/offer_code/3.py",
+		"/C/Users/a/Desktop/offer_code/2.py",
+		"/C/Users/a/Desktop/offer_code/1.py",
+		"/C/Users/a/Desktop/offer_code/offer code.sublime-project",
+		"/C/Users/a/Desktop/code/4.py",
+		"/C/Users/a/Desktop/code/3.py",
+		"/C/Users/a/Desktop/code/2.py",
+		"/C/Users/a/Desktop/code/1.py",
+		"/C/Users/a/Desktop/code/code1.py",
+		"/C/Users/a/Desktop/第6名KDDCUP-2020-master/KDDCUP/code/2_Similarity/deep_node_model.py",
+		"/C/Users/a/Desktop/shandong/code/util.py",
+		"/C/Users/a/Desktop/第6名KDDCUP-2020-master/KDDCUP/code/2_Similarity/column_transformer_name.py",
+		"/C/Users/a/Desktop/test.py",
+		"/C/Users/a/Desktop/GraphEmbedding/setup.py",
+		"/C/Users/a/Desktop/GraphEmbedding/README.md",
+		"/C/Users/a/Desktop/code/test.sql",
+		"/C/Users/a/Desktop/code/kuaipai.py",
+		"/C/Users/a/Desktop/code/quicksort.py",
+		"/C/Users/a/Desktop/code/16.py",
+		"/C/Users/a/Desktop/code/15.py",
+		"/C/Users/a/Desktop/code/14.py",
+		"/C/Users/a/Desktop/code/13.py",
+		"/C/Users/a/Desktop/code/kuaipai",
+		"/C/Users/a/Desktop/code/09.py",
+		"/C/Users/a/Desktop/code/07.py",
+		"/C/Users/a/Desktop/code/03.py",
+		"/C/Users/a/Desktop/code/11.py",
+		"/C/Users/a/Desktop/code/04.py",
+		"/C/Users/a/Desktop/code/12.py",
+		"/C/Users/a/Desktop/code/101.py",
+		"/C/Users/a/Desktop/code/0.7py",
+		"/C/Users/a/Desktop/flasky/hello.py",
+		"/C/Users/a/Desktop/flasky/templates/index.html",
+		"/C/Users/a/Desktop/flasky/send_mail.py",
+		"/C/Users/a/Desktop/主机上云/poetry1.css",
+		"/C/Users/a/Desktop/code/swordoffer/66.py",
+		"/C/Users/a/Desktop/主机上云/main.html",
+		"/C/Users/a/flasky/config.py",
+		"/C/Users/a/Desktop/code/swordoffer/68_1.py",
+		"/C/Users/a/Desktop/code/swordoffer/68_2.py",
+		"/C/Users/a/Desktop/code/offer68_2.py",
+		"/C/Users/a/flasky/app/main/__init__.py",
+		"/C/Users/a/flasky/app/models.py",
+		"/C/Users/a/flasky/flasky.py",
+		"/C/Users/a/Desktop/code/swordoffer/68_1",
+		"/C/Users/a/flasky/app/__init__.py",
+		"/C/Users/a/flasky/main.py",
+		"/C/Users/a/flasky/main",
+		"/C/Users/a/flasky/test.py",
+		"/C/Users/a/flasky/hello.py",
+		"/C/Users/a/flasky/mail_config.pkl",
+		"/C/Users/a/flasky/mail_config.json",
+		"/C/Users/a/flasky/templates/mail/new_user.html",
+		"/C/Users/a/flasky/templates/base.html",
+		"/C/Users/a/flasky/templates/index.html",
+		"/C/Users/a/flasky/code/templates/base.html",
+		"/C/Users/a/flasky/code/templates/extend.html",
+		"/C/Users/a/flasky/code/templates/user.html",
+		"/C/Users/a/flasky/code/templates/404.html",
+		"/C/Users/a/flasky/code/templates/macros.html",
+		"/C/Users/a/flasky/code/hello.py",
+		"/C/Users/a/Anaconda3/Lib/site-packages/moviepy/config_defaults.py",
+		"/C/Users/a/flasky/code/test1.py",
+		"/C/Users/a/flasky/code/templates/common.html",
+		"/C/Users/a/flasky/code/templates/hello.py",
+		"/C/Users/a/Desktop/code/heap_sort.py",
+		"/C/Users/a/Desktop/code/offer68_1.py",
+		"/C/Users/a/Desktop/code/offer4.py",
+		"/C/Users/a/Desktop/code/offer5.py",
+		"/C/Users/a/Desktop/code/offer6.py",
+		"/C/Users/a/Desktop/code/offer8.py",
+		"/C/Users/a/Desktop/code/offer9.py",
+		"/C/Users/a/Desktop/code/offer10_2.py",
+		"/C/Users/a/Desktop/code/offer10_1.py",
+		"/C/Users/a/Desktop/code/offer11.py",
+		"/C/Users/a/Desktop/code/offer12.py",
+		"/C/Users/a/Desktop/code/offer13.py",
+		"/C/Users/a/Desktop/code/offer21.py",
+		"/C/Users/a/Desktop/code/offer18.py",
+		"/C/Users/a/Desktop/code/offer17.py",
+		"/C/Users/a/Desktop/code/offer16.py",
+		"/C/Users/a/Desktop/code/offer15.py",
+		"/C/Users/a/Desktop/code/offer14_1.py",
+		"/C/Users/a/Desktop/code/offer14_2.py",
+		"/C/Users/a/Desktop/code/offer24.py",
+		"/C/Users/a/Desktop/code/offer25.py",
+		"/C/Users/a/Desktop/code/offer26.py",
+		"/C/Users/a/Desktop/code/offer22.py",
+		"/C/Users/a/Desktop/code/offer27.py",
+		"/C/Users/a/Desktop/code/offer28.py",
+		"/C/Users/a/Desktop/code/offer29.py",
+		"/C/Users/a/Desktop/code/offer30.py",
+		"/C/Users/a/Desktop/code/offer31.py",
+		"/C/Users/a/Desktop/code/offer32_2.py",
+		"/C/Users/a/Desktop/code/offer32_1.py",
+		"/C/Users/a/Desktop/code/offer33.py",
+		"/C/Users/a/Desktop/code/offer34.py",
+		"/C/Users/a/Desktop/code/offer35.py",
+		"/C/Users/a/Desktop/code/offer36.py",
+		"/C/Users/a/Desktop/code/offer37.py",
+		"/C/Users/a/Desktop/code/offer35",
+		"/C/Users/a/Desktop/code/offer38.py",
+		"/C/Users/a/Desktop/code/offer39.py",
+		"/C/Users/a/Desktop/code/offer40.py",
+		"/C/Users/a/Desktop/code/offer41.py",
+		"/C/Users/a/Desktop/code/offer42.py",
+		"/C/Users/a/Desktop/code/offer44.py",
+		"/C/Users/a/Desktop/code/offer45.py",
+		"/C/Users/a/Desktop/code/offer46.py",
+		"/C/Users/a/Desktop/code/offer43.py",
+		"/C/Users/a/Desktop/code/offer47.py",
+		"/C/Users/a/Desktop/code/offer48.py",
+		"/C/Users/a/Desktop/code/offer49.py",
+		"/C/Users/a/Desktop/DeepCTR-master/deepFm_structure.py",
+		"/C/Users/a/Desktop/code/offer50.py",
+		"/C/Users/a/Desktop/code/offer51.py",
+		"/C/Users/a/Desktop/code/offer52.py",
+		"/C/Users/a/Desktop/code/offer53_2.py",
+		"/C/Users/a/Desktop/code/offer53_1.py",
+		"/C/Users/a/Desktop/code/offer54.py",
+		"/C/Users/a/Desktop/code/python55_2.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			"6",
+			"colsample_bytree",
+			"Node2Vec",
+			"get_item_graph",
+			"deep_node_recom",
+			"long_description",
+			"False",
+			":\n",
+			"):\n",
+			"False",
+			"邮件发送完成！",
+			"moment",
+			"curnode",
+			"gmail",
+			"app.config['MAIL_USERNAME']",
+			"template",
+			"\n            ",
+			")\n",
+			"high",
+			"])\n",
+			"cols",
+			"\n        ",
+			"1",
+			"next",
+			"l",
+			"partion",
+			"pass",
+			"20",
+			"note",
+			" \n",
+			"]\n",
+			"maxl",
+			"()",
+			"get_sim_item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "11.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "12.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "13.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "14_1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "15.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "offer code.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
