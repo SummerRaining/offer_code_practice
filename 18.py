@@ -7,12 +7,11 @@ class Solution:
     def deleteNode(self, head: ListNode, val: int) -> ListNode:
         if head==None:
             return None
-
         if head.val == val:
             tmp = head.next
             del head
             return tmp
-            
+
         pnode = head
         pnext = head.next
         while pnext!=None and pnext.val != val:
