@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"n",
+				"nextN"
+			],
+			[
+				"pop",
+				"popped"
+			],
+			[
+				"r",
+				"rstart"
+			],
+			[
+				"d",
+				"dumphead"
+			],
+			[
+				"c",
+				"check_black"
+			],
+			[
 				"p",
 				"pindex"
 			],
@@ -66,10 +86,6 @@
 			[
 				"inpu",
 				"input_string"
-			],
-			[
-				"c",
-				"course_name"
 			],
 			[
 				"stu",
@@ -176,10 +192,6 @@
 				"array2"
 			],
 			[
-				"r",
-				"right-left"
-			],
-			[
 				"for",
 				"format"
 			],
@@ -210,10 +222,6 @@
 			[
 				"pu",
 				"pushed_index"
-			],
-			[
-				"pop",
-				"pop_index"
 			],
 			[
 				"po",
@@ -304,31 +312,56 @@
 	"buffers":
 	[
 		{
-			"file": "18.py",
+			"file": "28.py",
 			"settings":
 			{
-				"buffer_size": 636,
+				"buffer_size": 610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "29.py",
+			"settings":
+			{
+				"buffer_size": 945,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "19.py",
+			"file": "31.py",
 			"settings":
 			{
-				"buffer_size": 1285,
+				"buffer_size": 613,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "20.py",
+			"file": "32_1.py",
 			"settings":
 			{
-				"buffer_size": 799,
+				"buffer_size": 659,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "class Solution:"
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "31_2.py",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "31_3.py",
+			"settings":
+			{
+				"buffer_size": 1075,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -368,6 +401,19 @@
 	],
 	"file_history":
 	[
+		"/C/Users/a/Desktop/offer_code/27.py",
+		"/C/Users/a/Desktop/offer_code/23.py",
+		"/C/Users/a/Desktop/offer_code/24.py",
+		"/C/Users/a/Desktop/offer_code/25.py",
+		"/C/Users/a/Desktop/offer_code/21.py",
+		"/C/Users/a/Desktop/offer_code/20.py",
+		"/C/Users/a/Desktop/offer_code/19.py",
+		"/C/Users/a/Desktop/offer_code/18.py",
+		"/C/Users/a/Desktop/offer_code/28.py",
+		"/C/Users/a/Desktop/offer_code/22.py",
+		"/C/Users/a/Desktop/offer_code/.gitignore.",
+		"/C/Users/a/Desktop/offer_code/.gitignore",
+		"/C/Users/a/Desktop/offer_code/offer code.sublime-project",
 		"/C/Users/a/Desktop/offer_code/17.py",
 		"/C/Users/a/Desktop/offer_code/16.py",
 		"/C/Users/a/Desktop/offer_code/15.py",
@@ -384,7 +430,6 @@
 		"/C/Users/a/Desktop/offer_code/3.py",
 		"/C/Users/a/Desktop/offer_code/2.py",
 		"/C/Users/a/Desktop/offer_code/1.py",
-		"/C/Users/a/Desktop/offer_code/offer code.sublime-project",
 		"/C/Users/a/Desktop/code/4.py",
 		"/C/Users/a/Desktop/code/3.py",
 		"/C/Users/a/Desktop/code/2.py",
@@ -483,19 +528,7 @@
 		"/C/Users/a/Desktop/code/offer37.py",
 		"/C/Users/a/Desktop/code/offer35",
 		"/C/Users/a/Desktop/code/offer38.py",
-		"/C/Users/a/Desktop/code/offer39.py",
-		"/C/Users/a/Desktop/code/offer40.py",
-		"/C/Users/a/Desktop/code/offer41.py",
-		"/C/Users/a/Desktop/code/offer42.py",
-		"/C/Users/a/Desktop/code/offer44.py",
-		"/C/Users/a/Desktop/code/offer45.py",
-		"/C/Users/a/Desktop/code/offer46.py",
-		"/C/Users/a/Desktop/code/offer43.py",
-		"/C/Users/a/Desktop/code/offer47.py",
-		"/C/Users/a/Desktop/code/offer48.py",
-		"/C/Users/a/Desktop/code/offer49.py",
-		"/C/Users/a/Desktop/DeepCTR-master/deepFm_structure.py",
-		"/C/Users/a/Desktop/code/offer50.py"
+		"/C/Users/a/Desktop/code/offer39.py"
 	],
 	"find":
 	{
@@ -513,6 +546,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flag",
 			":",
 			"6",
 			"colsample_bytree",
@@ -565,24 +599,110 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "18.py",
+					"file": "28.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 636,
+						"buffer_size": 610,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								288,
-								288
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "29.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "31.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "32_1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
 							]
 						],
 						"settings":
@@ -597,20 +717,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "19.py",
+					"buffer": 4,
+					"file": "31_2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1285,
+						"buffer_size": 904,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								866,
-								866
+								615,
+								615
 							]
 						],
 						"settings":
@@ -618,36 +738,35 @@
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 264.0,
+						"translation.y": 162.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "20.py",
+					"buffer": 5,
+					"file": "31_3.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 799,
+						"buffer_size": 1075,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								431
+								0,
+								1075
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 250.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

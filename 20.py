@@ -5,15 +5,24 @@ class Solution:
             return False
         s = list(s)+['\0']
         index = 0
+        #检查空串
+        index = self.check_black(s,index)
         flag,index = self.unsign_int(s,index)
         if s[index] == '.':
-            flag = flag and self.check_int(s,index+1)
+            tmp,index = self.check_int(s,index+1) 
+            flag = tmp or flag
         if flag==True:
             if s[index] in ['e','E']:
-                flag = self.check_int(s,index+1)
+                tmp,index = self.unsign_int(s,index+1)
+                flag = tmp and flag
         #检查空串
+        index = self.check_black(s,index)
         return s[index]=='\0' and flag
 
+    def check_black(self,s,index):
+        while s[index]==' ':
+            index += 1
+        return index
     def check_int(self,s,index):
         if index >=len(s):
             return False,index
@@ -25,4 +34,4 @@ class Solution:
     def unsign_int(self,s,index):
         if s[index] in ['+','-']:
             index = index+1
-        return self.check_int(s,index+1)
+        return self.check_int(s,index)
